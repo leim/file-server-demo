@@ -1,0 +1,12 @@
+{
+  "name": "ace-nodejs",
+  "version": "0.0.1",
+  "description": "ace app sample",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.12.4",
+    "formidable": "^1.0.17",
+    "fs-extra": "^0.18.4",
+    "hat": "0.0.3"
+  }
+}
